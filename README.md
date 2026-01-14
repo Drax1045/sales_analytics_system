@@ -174,16 +174,19 @@ Example Console Flow
 ...
 [10/10] Process Complete!
 
-⚙️ Technologies Used
-Category	Technology
-Programming Language	Python 3.x
-Data Processing	Python Standard Library
-File Handling	Text & Encoding Handling
-API Integration	Simulated REST API
-Reporting	Formatted Text Reports
-Version Control	Git
-Code Hosting	GitHub
-Operating System	macOS / Linux / Windows
+## ⚙️ Technologies Used
+
+| Category | Technology |
+|--------|-----------|
+| Programming Language | Python 3.x |
+| Data Processing | Python Standard Library |
+| File Handling | Text & Encoding Handling |
+| API Integration | Simulated REST API |
+| Reporting | Formatted Text Reports |
+| Version Control | Git |
+| Code Hosting | GitHub |
+| Operating System | macOS / Linux / Windows |
+
 ```
 ## 🚀 Future Enhancements
 
