@@ -45,7 +45,7 @@ Enriched Dataset
         ↓
 Automated Sales Report
 
-📁 Repository Structure
+ 📁 Repository Structure
 
 sales-analytics-system/
 │
@@ -185,3 +185,9 @@ Version Control	Git
 Code Hosting	GitHub
 Operating System	macOS / Linux / Windows
 ```
+## 🚀 Future Enhancements
+
+- Replace simulated API with a real product metadata API
+- Add CSV / JSON export for reports
+- Introduce basic visualizations (charts & graphs)
+- Add unit tests for analytics functions
