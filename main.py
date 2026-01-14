@@ -1,3 +1,8 @@
+"""
+Sales Analytics System
+Main application entry point
+Executes end-to-end analytics workflow
+"""
 from utils.file_handler import read_sales_data
 from utils.data_processor import (
     parse_transactions,
